@@ -55,10 +55,16 @@ Used Machine Learning algorithms like Decision Trees, Guassian Naive Bayes, K Ne
 
 ## Images
 
+![](Images/NLP-Alexa.PNG)
+
+![](Images/NLP-Alexa-2.PNG)
+
+![](Images/NLP-Alexa-3.PNG)
+
 ## Conclusion
-
-We started with Reading the data for the Alexa Reviews, Describing the data for various measures, Visualizing some data, Analyzing some of the Reviews based on their lengths, Determining the most Frequently used words, Visualized a Wordcloud for the Reviews, Used Spacy, Used Random Forest algorithm to model the data and performed Cross Validation.
-
+* Longer reviews has a correlation with more positive sentiments
+* Love was the most frequently used word in the reviews
+* We see that Walnut Finish and Oak Finish have the highest ratings, and they range from 4.5 to 5.
 
 ## Citations
 Matleonard. (2020, October 01). Intro to NLP. Retrieved November 01, 2020, from https://www.kaggle.com/matleonard/intro-to-nlp
