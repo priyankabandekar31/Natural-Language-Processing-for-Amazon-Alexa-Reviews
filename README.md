@@ -46,9 +46,11 @@ Used Machine Learning algorithms like Decision Trees, Guassian Naive Bayes, K Ne
 
 **Data Set Name:** 'Amazon Alexa Reviews'    [`link to Kaggle Dataset`](https://www.kaggle.com/sid321axn/amazon-alexa-reviews) which contains information on 3150 Amazon customers reviews for Amazon Alexa products such as the Echo series, Firestick, etc.
 
-#### **Source:**            
+### **Source:**            
 **Dataset Owner:** Manu Siddhartha
+
 **Collaborators:** Anurag Bhatt
+
 **Last Updated:** July 31, 2018  
 
 ## Images
